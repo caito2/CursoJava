@@ -158,14 +158,9 @@ public class Agenda
 				emails[i] = emails[i+1];
 				telefones[i] = telefones[i+1];
 <<<<<<< HEAD
-		
-			}
-		
-	}
 }
-=======
+
 		}
 		
 	}
 }
->>>>>>> 136e2da562469a4b657e0d66c343942cf5ec014a
